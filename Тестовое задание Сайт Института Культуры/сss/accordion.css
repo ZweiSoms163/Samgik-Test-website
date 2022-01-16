@@ -1,0 +1,84 @@
+
+.accordion__title {
+    margin-bottom: 48px;
+    margin-top: 230px;
+    margin-left: 347px;
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+
+    color: #18181A;
+}
+    .accordion { 
+        margin-top: 32px;
+        background-color: inherit;
+        margin-bottom: 32px;
+        margin-left: 371px;
+        color: #18181A;
+        cursor: pointer;
+        width: 1226px;
+        border: none;
+        text-align: left;
+        outline: none;
+        font-size: 18px;
+        transition: 0.5s;
+
+        font-family: Zona Pro;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 32px;
+
+        letter-spacing: 3px;
+        text-transform: uppercase;
+
+    }
+    
+    .active, .accordion:hover {
+        content: "\2211";
+    }
+    
+    .accordion:after {
+        content: '\002B';
+        color: #18181A;
+        font-size: 35px;
+        font-weight: bold;
+        float: right;
+        margin-left: 5px;
+    }
+    
+    .active:after {
+        content: "\2212";
+    }
+    
+    .panel { 
+        margin-left: 371px;
+        margin-bottom: 32px;
+        padding: 0 18px;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease-out;
+
+        font-family: Zona Pro;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        color: #18181A;
+    }
+    .accordion__strips {
+        border-bottom: 2px solid #18181A;
+        max-width: 1226px;
+        margin-left: 371px;
+    }
+    .photo-ballet {
+       max-width: 1900px;
+    }
+ 

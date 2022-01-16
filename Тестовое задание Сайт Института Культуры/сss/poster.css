@@ -1,0 +1,158 @@
+.poster {
+    width: 1900px;
+    height: 800px;
+    margin-top: 230px;
+    background: #161616;
+}
+.poster__title {
+    padding-top: 72px;
+    margin-left: 347px;
+    margin-bottom: 56px;
+
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 64px;
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.poster__box1 img {
+    position: absolute;
+    left: 347px;
+    
+}
+.poster__box2 img {
+    position: absolute;
+    left: 700px;
+    top:4385px;
+ 
+}
+.poster__box3 img {
+    position: absolute;
+    left: 1067px;
+    top:4385px;
+    
+}
+.poster__box4 img {
+    position: absolute;
+    left: 1430px;
+    top: 4385px;
+    
+}
+.postersubtitle1 {
+    position: absolute;
+    left: 347px;
+    top: 4792px;
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+  
+    color: #FFD43C;
+}
+.postersubtitle2 {
+    position: absolute;
+    left: 700px;
+    top: 4792px;
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+  
+    color: #FFD43C;
+}
+.postersubtitle3 {
+    position: absolute;
+    left: 1067px;
+    top: 4792px;
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+  
+    color: #FFD43C;
+}
+.postersubtitle4 {
+    position: absolute;
+    left: 1430px;
+    top: 4792px;
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+  
+    color: #FFD43C;
+}
+.poster__text1 {
+    position: absolute;
+    left: 347px;
+    top: 4830px;
+
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 120%;
+
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.poster__text2 {
+    position: absolute;
+    left: 700px;
+    top: 4830px;
+
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 120%;
+
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.poster__text3 {
+    position: absolute;
+    left: 1067px;
+    top: 4830px;
+
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 120%;
+
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.poster__text4 {
+    position: absolute;
+    left: 1430px;
+    top: 4830px;
+
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 120%;
+
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}

@@ -1,0 +1,94 @@
+.announcements__header {
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+  
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding-top: 230px;
+    padding-left: 348px;
+    padding-bottom: 48px;
+}
+.announcements__column {
+    width: 30%;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 48px;
+}
+.announcements__item {
+    margin-right: 43px;
+    width: 380px;
+    height: 386px;
+    border: 2px solid #E4E7E9;
+    box-sizing: border-box;
+}
+.announcements__item:first-child {
+   margin-left: 347px;
+}
+
+.announcements__yellow__step {
+    width: 380px;
+    height: 40px;
+    background: #FFD43C;
+}
+.announcements__date span{
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 60px;
+}
+.announcements__date {
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 32px;
+    position: relative;
+    margin-top: 16px;
+    padding-left: 24px;
+}
+.announcements__time {
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 32px; 
+    padding-left: 287px;
+    margin-top: -35px;
+    margin-bottom: 16px;
+}
+.announcements__welcome {
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 32px;
+    padding-left: 24px ;
+    margin-bottom: 24px;
+
+    color: #5C5C5C;
+}
+.announcements__text {
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 32px;
+    padding-left: 24px;
+    padding-bottom: 32px;
+}
+.announcements__status__icon {
+ 
+}
+.announcements__status {
+    font-family: Zona Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 32px;
+    padding-left: 25px;
+    margin-bottom: 40px;
+}
